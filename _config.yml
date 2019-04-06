@@ -30,18 +30,18 @@ projects:
  social_media:
   # behance: your_username
   # dribbble: your_username
-   facebook: gianfranco.gasbarri
+  facebook: gianfranco.gasbarri
   # hackerrank: your_username
-   instagram: gincos
+  instagram: gincos
   # keybase: your_username
-   linkedin: gianfranco-gasbarri
-   medium: gincos
+  linkedin: gianfranco-gasbarri
+  medium: @gincos
   # stackoverflow: your_user_id
   # telegram: your_username
-   twitter: ggasba
+  twitter: ggasba
   # unsplash: your_username
   # vk: your_username
-   website: http://gincos.me
+  website: http://gincos.me
   # youtube: your_username
 
 topics:
