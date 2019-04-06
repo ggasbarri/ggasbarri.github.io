@@ -47,8 +47,10 @@ social_media:
 topics:
   - name: Flutter
     web_url: https://flutter.io/
-    image_url: https://venturebeat.com/wp-content/uploads/2019/02/google-flutter-logo-white.png?fit=400%2C200&strip=all
+    image_url: https://www.codemate.com/wp-content/uploads/2016/02/flutter-logo-round.png
 
   - name: Artificial Intelligence
+    image_url: https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png
 
   - name: Startup Building
+    image_url: https://cdn.pixabay.com/photo/2016/11/30/18/14/idea-1873540_960_720.png
