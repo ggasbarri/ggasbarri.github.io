@@ -23,6 +23,7 @@ projects:
   #   - stars
   limit: 9
   exclude:
+    archived: false
     forks: true
     projects:
      - hello-world
@@ -34,6 +35,7 @@ social_media:
   # hackerrank: your_username
   instagram: gincos
   # keybase: your_username
+  # mastodon: your_username
   linkedin: gianfranco-gasbarri
   medium: gincos
   # stackoverflow: your_user_id
